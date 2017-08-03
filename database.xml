@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="none">
+
+
+ <test name="databaseTest">
+ 
+ <classes>
+ 
+ <class name="database.ConnectMYSQL" />
+ 
+ </classes>
+ 
+ </test>
+ </suite>
